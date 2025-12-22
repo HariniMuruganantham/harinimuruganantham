@@ -27,12 +27,17 @@ Focused on strengthening **DevOps and AWS**, while gradually exploring **AI, LLM
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
-### 🤖 GenAI & Workflow Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🤖 GenAI 
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat)
 ![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+
+### 🔄 Workflow Automation
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
+
+### 🧑‍💻 Programming and Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📋 Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
