@@ -87,6 +87,12 @@ Hosted a personal portfolio to showcase projects and technical skills.
 </p>
 
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariniMuruganantham&theme=react-dark&hide_border=true" />
+</p>
+
 ---
 
 ## 🤝 Connect
