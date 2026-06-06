@@ -40,15 +40,6 @@ Alongside core DevOps work, I am actively exploring how AI and LLM tooling can e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-**🤖 AI & GenAI**
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat)
-![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-00A67E?style=flat)
-
-**🔄 Workflow Automation**
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
-
 **📊 Collaboration & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
